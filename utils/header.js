@@ -8,8 +8,8 @@ const header = {
         { title: 'Experience', id: 'experience' },
         { title: 'My Work', id: 'my-work' },
         { title: 'Reviews', id: 'reviews' },
-        { title: 'Certifications', id: 'certifications' },
-        { title: 'Contribution', id: 'contributions' },
+        // { title: 'Certifications', id: 'certifications' },
+        // { title: 'Contribution', id: 'contributions' },
         { title: 'Contact', id: 'contact' },
     ],
     rightBtn: {
@@ -17,8 +17,8 @@ const header = {
         onClick: () => openLink('assets/cv.pdf')
     },
     logo: {
-        src: '/assets/photo-logo.png',
-        alt: 'muneebwasikhan'
+        src: '/assets/cv-img-2.jpg',
+        alt: 'aamir'
     },
     handleIconClick: () => scrollTo('home'),
     handleItemSelect: (menu) => scrollTo(menu.id),

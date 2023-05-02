@@ -1,41 +1,35 @@
 const mySelf = {
     heading: 'My Portfolio',
     paragraphs: [
-        `
-        Hello! My name is Muneeb Khan, I like creating new things for internet. From a younger age, I have been interested in programming, as a kid most of my time I've spent in inspect element playing with colors and codes generating loops for sending infinite messages, cracking locked screen overflows and many more. so finally at the age of 16 I decided to convert this passion into career.`,
-        `
-        It is a way to become more crafty with my ideas and explore the endless possibilities in the world of programming.`,
-        `
-        Besides, Programming I'm a passionate photographer and a traveller.
-        A First Pakistani who actually covered most of the 360 google street view of city Karachi with heighest GSV contribution in all over Pakistan it helped more than 42 Million people till now.`,
-        `
-        Coming back to Programming over the time I've delivered projects to many happy cients over globe and it gave me experience for working with many different people of different culture.
-        From local software house to Fiverr, Fiverr to Upwork and gradually towards international companies.`,
-        `
-        I am extremely observant when it comes to the breakdown of certain things. As being a crafty person I mostly endup solving too complex issues in less time.
-        `,
-        `
-        To test my skills to the fullest would be an amazing experience, an environment where I would learn more and polish my skills more further would be an ideal one for me. Because I believe that there is always room to learn something new and to say no to a new opportunity would not be wise at all.
-        Feel free to communicate.`,
-        `
-        Over the time I've specialized in many technologies some of them are...
-        `,
+        `Hello! My name is Aamir. As a passionate computer science enthusiast, I have always been fascinated by the endless possibilities that technology offers. With a strong background in computer science, I decided to specialize in frontend development, which allows me to combine my love for creativity and problem-solving.`,
+
+        `With proficiency in JavaScript (ES6+), TypeScript and React.js. I have developed  very well-versed user interfaces that are not only visually appealing but also intuitive, easy to use and scalable.`,
+
+        `My experience with UI libraries and integration with backend Api's, enables me to create responsive and accessible web applications that work seamlessly across different platforms and devices.`,
+
+        `As a front-end developer, I understand the importance of collaborating with other teams, including designers and backend developers, to build products that meet the needs of users. My ability to communicate effectively, learn quickly, and adapt to new technologies makes me an ideal candidate for any organization/client seeking a skilled and dedicated frontend developer.`,
+
+        `With my technical skills and passion for frontend development, I'm confident in my ability to add value to any company/client that I join, and I'm excited to take on new challenges and contribute to the growth and success of any team.`,
+
+       `Over the time I've specialized in many technologies some of them are...`,
     ],
     techList1: [
-        'JavaScript/TypeScript',
-        'React.js/Native',
-        'Express.js',
-        'Node.js',
-        'Firestore',
-        'MongoDB'
+        'JavaScript (ES6+)',
+        'TypeScript',
+        'React.js',
+        'Next.js',
+        'Redux.js',
+        'React Hook Form',
+        'React Query',
     ],
     techList2: [
-        'Web3.js',
-        'Solidity',
-        'Ionic',
-        'Cordova',
+        'Web3.js integrations',
+        'UI libraries',
+        'MUI/Bootstrap',
+        'Styled components',
+        'Stitches / Radix ',
         'PWA/SPA',
-        'AWS',
+        'Git / GitHub / Bitbucket',
     ],
     image: '/assets/profile1.jpg',
 }

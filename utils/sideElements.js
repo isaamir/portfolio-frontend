@@ -2,18 +2,18 @@ import { openLink } from "./methods"
 
 const handleIconClick = (icon) => {
     const links = {
-        'github': 'https://github.com/muneebwasikhan',
-        'instagram': 'https://www.instagram.com/muneebwasikhan6/',
-        'twitter': 'https://twitter.com/muneebwasikhan',
-        'linkedin': 'https://www.linkedin.com/in/muneebwasikhan/',
+        'github': 'https://github.com/isaamir',
+        'instagram': 'https://www.instagram.com/iaamirmohammad/',
+        'twitter': 'https://twitter.com/iizaamir',
+        'linkedin': 'https://www.linkedin.com/in/aamir-mushtaq-24b522149/',
     }
     openLink(links[icon])
 }
 
 const sideElements = {
     emailButton: {
-        label: 'muneebwasikhan@gmail.com',
-        onClick: () => openLink('mailto:muneebwasikhan@gmail.com?subject=Hello')
+        label: 'aamirmushtaqengr@gmail.com',
+        onClick: () => openLink('mailto:aamirmushtaqengr@gmail.com?subject=Hello')
     },
     handleIconClick,
 }
