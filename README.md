@@ -1,14 +1,6 @@
 <h1 align="center">
     Aamir Mushtaq - Portfolio
 </h1>
-<p align="center">
-  This personal portfolio website is developed by using <a href="https://www.netlify.com/" target="_blank">Next.js</a>.
-</p>
-
-<div align="center">
-  <img src="./public/assets/portfolio.gif" alt="Portfolio Demo" width="100%" />
-  <br>
-</div>
 
 ## 🛠 Installation and Setup Instructions
 

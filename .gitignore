@@ -39,3 +39,5 @@ yarn-error.log*
 /public/sw.js.map
 /public/workbox-*.js
 /public/workbox-*.js.map
+# Local Netlify folder
+.netlify
