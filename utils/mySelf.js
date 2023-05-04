@@ -31,7 +31,7 @@ const mySelf = {
         'PWA/SPA',
         'Git / GitHub / Bitbucket',
     ],
-    image: '/assets/profile1.jpg',
+    image: '/assets/cv-img-1.jpg',
 }
 
 export default mySelf

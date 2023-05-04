@@ -3,7 +3,7 @@ import Contact from "../views/Contact";
 import FullPageScroll from "../components/FullPageScroll";
 // import Graphis from "../views/Graphis";
 import Header from "../components/Header";
-import MapsContribution from "../views/MapsContribution";
+// import MapsContribution from "../views/MapsContribution";
 import MySelf from "../views/MySelf";
 import Outer from "../views/Outer";
 import Projects from "../views/Projects";
@@ -14,9 +14,9 @@ import Works from "../views/Works";
 import { contact, graphics, header, mapsContribution, mySelf, outer, projects, reviews, works } from "../utils";
 import sideElements from "../utils/sideElements";
 import Cursor from "../components/Cursor";
-import PreLoader from "../components/PreLoader";
-import Certifications from "../views/Certifications";
-import certifications from "../utils/certifications";
+// import PreLoader from "../components/PreLoader";
+// import Certifications from "../views/Certifications";
+// import certifications from "../utils/certifications";
 import WaterMark from "../components/WaterMark";
 
 const ViewElement = ({ children, id }) => (
@@ -63,13 +63,13 @@ export default function Home() {
           <Graphis data={graphics} />
         </ViewElement> */}
 
-        <ViewElement id="certifications">
+        {/* <ViewElement id="certifications">
           <Certifications data={certifications} />
-        </ViewElement>
+        </ViewElement> */}
 
-        <ViewElement id="contributions">
+        {/* <ViewElement id="contributions">
           <MapsContribution data={mapsContribution} />
-        </ViewElement>
+        </ViewElement> */}
 
         <ViewElement id="contact">
           <Contact data={contact} />

@@ -4,7 +4,7 @@ import { openLink, scrollTo } from "./methods";
 const header = {
     menus: [
         { title: 'Home', id: 'home' },
-        { title: 'My Selft', id: 'my-self' },
+        { title: 'My Self', id: 'my-self' },
         { title: 'Experience', id: 'experience' },
         { title: 'My Work', id: 'my-work' },
         { title: 'Reviews', id: 'reviews' },

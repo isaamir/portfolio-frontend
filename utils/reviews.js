@@ -4,17 +4,17 @@ const reviews = {
         {
             clinet: 'Adrian',
             via: 'Fiver',
-            reivew: 'Flawless delivery!',
+            reivew: 'They’re very reliable and good at what they do.!',
+        },
+        {
+            clinet: 'Andrew',
+            via: 'Fiver',
+            reivew: 'They are great product leader and developers. They helped me accelerate my development by collaborating with many engineers and helped me build my app. I look forward to working with them again',
         },
         {
             clinet: 'Adrian',
             via: 'Fiver',
-            reivew: 'Muneeb is a great product leader and developer. He helped me accelerate my development by collaborating with many engineers and helped me build my app. I look forward to working with Muneeb again',
-        },
-        {
-            clinet: 'Adrian',
-            via: 'Fiver',
-            reivew: 'This guy is awesome! He works hard and always with the best quality. He did great on our project. I highly recommend him!',
+            reivew: 'They have strong technical skills when it comes to Web Development.',
         },
         {
             clinet: 'Adrian',
@@ -22,23 +22,23 @@ const reviews = {
             reivew: 'The freelancer is absolutely expert, he done what I need with perfec skills. I’m going to work with him again. Thank you',
         },
         {
-            clinet: 'Adrian',
-            via: 'Fiver',
+            clinet: 'Max',
+            via: 'Freelancer',
             reivew: 'I’m glad working with him, definitely you won’t regret it. Amazing job',
         },
         {
-            clinet: 'Adrian',
+            clinet: 'Andrew',
             via: 'Fiver',
             reivew: 'Great guy. Works hard and delivers quality.',
         },
         {
             clinet: 'Adrian',
             via: 'Fiver',
-            reivew: 'Another top shelf delivery from Muneeb. Happy again, as expected.',
+            reivew: 'Another top shelf delivery from them. Happy again, as expected.',
         },
         {
-            clinet: 'Adrian',
-            via: 'Fiver',
+            clinet: 'Antonio',
+            via: 'Upwork',
             reivew: '10/10, would definitely recommend this dude for all your app programming needs.',
         },
         {

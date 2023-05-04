@@ -36,7 +36,7 @@ const SingleProject = (props) => {
 }
 
 const ProjectTextSide = (props) => {
-    const { label, title, description, techs, index, image } = props
+    const { label, title, description, techs, index, image, link } = props
     const side = getSide(index);
     return (
         <div
@@ -62,6 +62,10 @@ const ProjectTextSide = (props) => {
                 data-aos={`zoom-in-${side}`}
                 className='mk-projects-text-tecs'>
                 {techs.map((tech, i) => `${tech} ${techs.length - 1 !== i ? ' | ' : ''}`)}
+            </div>
+            <div  data-aos={`zoom-in-${side}`}
+                className='mk-projects-text-tecs'>
+                 <a href={link} target={'_blank'}>Click to view project</a>
             </div>
         </div>
     )
