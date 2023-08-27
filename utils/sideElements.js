@@ -5,7 +5,7 @@ const handleIconClick = (icon) => {
         'github': 'https://github.com/isaamir',
         'instagram': 'https://www.instagram.com/iaamirmohammad/',
         'twitter': 'https://twitter.com/iizaamir',
-        'linkedin': 'https://www.linkedin.com/in/aamir-mushtaq-24b522149/',
+        'linkedin': 'https://www.linkedin.com/in/aamir-mushtaq-engr/',
     }
     openLink(links[icon])
 }

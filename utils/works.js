@@ -2,24 +2,24 @@ const works = {
     heading: 'My Work Experiences',
     experiences: [
         {
+            company: 'Code Foresight',
+            role: 'Frontend Developer',
+            duration: 'Jan 2021 - Present',
+            points: [
+                `Developing web apps with Vuejs, Nuxt.js and other modern technologies along with TypeScript.
+                 Built applications from scratch, revamped old products, and added features to already stable and deployed applications.`,
+            ],
+        },
+        {
             company: 'Ideofuzion',
             role: 'Frontend Developer',
-            duration: 'Sept 2021 - Present',
+            duration: 'Feb 2021 - Jun 2023',
 
             points: [
                 `Convert designs into responsive web pages,
                 Integrate GraphQL and Restful APIs,
                 Integrate web3 in modern DApps,
                 Interact with other engineers to collaborate in projects`,
-            ],
-        },
-        {
-            company: 'Ropstam',
-            role: 'Frontend Developer',
-            duration: 'Jan 2021 - Sept 2021',
-            points: [
-                `Made Pixcel Perfect UI and integrated RESTful APIs for E-
-                commerce websites.`,
             ],
         },
         {
