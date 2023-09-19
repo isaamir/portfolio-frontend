@@ -4,7 +4,7 @@ const works = {
         {
             company: 'Code Foresight',
             role: 'Frontend Developer',
-            duration: 'Jan 2021 - Present',
+            duration: 'Jan 2023 - Present',
             points: [
                 `Developing web apps with Vuejs, Nuxt.js and other modern technologies along with TypeScript.
                  Built applications from scratch, revamped old products, and added features to already stable and deployed applications.`,
@@ -13,7 +13,7 @@ const works = {
         {
             company: 'Ideofuzion',
             role: 'Frontend Developer',
-            duration: 'Feb 2021 - Jun 2023',
+            duration: 'Feb 2021 - Jan 2023',
 
             points: [
                 `Convert designs into responsive web pages,
