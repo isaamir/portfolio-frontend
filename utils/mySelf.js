@@ -1,5 +1,5 @@
 const mySelf = {
-    heading: 'My Portfolio',
+    heading: 'My Portfolio is so great',
     paragraphs: [
         `Hello! My name is Aamir. As a passionate computer science enthusiast, I have always been fascinated by the endless possibilities that technology offers. With a strong background in computer science, I decided to specialize in frontend development, which allows me to combine my love for creativity and problem-solving.`,
 
