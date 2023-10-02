@@ -12,7 +12,7 @@ const works = {
         },
         {
             company: 'Ideofuzion',
-            role: 'Frontend Developer HEHEHE',
+            role: 'Frontend Developer',
             duration: 'Feb 2021 - Jan 2023',
 
             points: [
