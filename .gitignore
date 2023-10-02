@@ -20,7 +20,7 @@
 *.pem
 
 # workflows
-/.github/
+
 
 # debug
 npm-debug.log*
